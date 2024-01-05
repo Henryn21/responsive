@@ -1,1 +1,1 @@
-https://github.com/pages/Henryn21/responsive
+https://henryn21.github.io/responsive/
